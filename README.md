@@ -1,2 +1,2 @@
-# 2136-Kanji-
+# 2136-Kanji-.fr
 cour d'apprentissage 
